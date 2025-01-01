@@ -34,7 +34,7 @@ jobs:
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: "hungry-goose-42"
+          project: "svapp"
           entrypoint: "mod.ts" # 📝 Update the entrypoint if necessary
           root: "build" # 📝 Update the root if necessary
           
