@@ -1,5 +1,5 @@
 <script>
-	import Header from './Header.svelte'; 
+	import Header from './Header.svelte';
 </script>
 
 <div class="app">
@@ -11,12 +11,10 @@
 
 	<footer class="uk-section uk-background-secondary uk-light">
 		<div class="uk-container">
-	<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
+			<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
 		</div>
-		
 	</footer>
 </div>
 
 <style>
- 
 </style>

@@ -4,5 +4,5 @@
 </svelte:head>
 
 <section class="uk-section">
-	<h1>Страница о проекте</h1>	 
+	<h1>Страница о проекте</h1>
 </section>

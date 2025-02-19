@@ -4,6 +4,5 @@
 </svelte:head>
 
 <section class="uk-section">
-	<h1> SvelteKit app</h1>	 
+	<h1>SvelteKit app</h1>
 </section>
- 
